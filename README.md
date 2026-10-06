@@ -8,7 +8,7 @@ El seminari es realitza els dimecres de 13:00 a 14:00 en l'aula 0.4.
 ---
 
 ## Apunts
-Conforme anem realitzant les diferents sessions els documents es modificaran puntualment per a afegir comentaris o exemples.
+Conforme anem realitzant les diferents sessions anirem pujant apunts.
 
 ---
 

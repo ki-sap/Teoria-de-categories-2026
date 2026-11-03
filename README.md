@@ -1,4 +1,4 @@
-# Seminari de Teoria de Categories
+# Informació sobre el repositori
 
 Benvingudes! Ací trobareu la informació del seminari, els apunts i altres documents, així com l'enllaç al qüestionari on podeu apuntar el vostre correu per rebre qualsevol actualització.
 

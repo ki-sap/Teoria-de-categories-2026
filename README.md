@@ -1,14 +1,20 @@
 # Seminari de Teoria de Categories
 
-Benvingudes! Ací trobareu la informació del seminari, els apunts i altres documents, així com l'enllaç al qüestionari per rebre qualsevol actualització.
+Benvingudes! Ací trobareu la informació del seminari, els apunts i altres documents, així com l'enllaç al qüestionari on podeu apuntar el vostre correu per rebre qualsevol actualització.
 
+## AVISOS
+
+El proper dimecres 11 de novembre no farem el seminari per tal de recolzar la convocatòria de vaga general pel dret a l'habitatge.
+
+---
+ 
 ## Horari
 El seminari es realitza els dimecres de 13:00 a 14:00 en l'aula 0.4.
 
 ---
 
 ## Apunts
-Conforme anem realitzant les diferents sessions anirem pujant apunts.
+Conforme anem realitzant les diferents sessions anirem pujant apunts. Al pdf [Apunts2026](https://github.com/ki-sap/Teoria-de-categories-2026/blob/main/Apunts2026.pdf) estan els apunts de tots els continguts que hem vist al seminari, i  alguns afegits que no hem pogut fer en classe. A la carpeta [Apunts per sessions](https://github.com/ki-sap/Teoria-de-categories-2026/tree/main/Apunts%20per%20sessions) teniu els apunts desglossats segons el que hem vist a cada classe.
 
 ---
 

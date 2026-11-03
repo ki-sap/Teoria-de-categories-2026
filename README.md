@@ -2,7 +2,7 @@
 
 Benvingudes! Ací trobareu la informació del seminari, els apunts i altres documents, així com l'enllaç al qüestionari on podeu apuntar el vostre correu per rebre qualsevol actualització.
 
-## AVISOS
+## Avisos o actualitzacions
 
 El proper dimecres 11 de novembre no farem el seminari per tal de recolzar la convocatòria de vaga general pel dret a l'habitatge.
 

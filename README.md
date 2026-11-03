@@ -14,7 +14,7 @@ El seminari es realitza els dimecres de 13:00 a 14:00 en l'aula 0.4.
 ---
 
 ## Apunts
-Conforme anem realitzant les diferents sessions anirem pujant apunts. Al pdf [Apunts2026](https://github.com/ki-sap/Teoria-de-categories-2026/blob/main/Apunts2026.pdf) estan els apunts de tots els continguts que hem vist al seminari, i  alguns afegits que no hem pogut fer en classe. A la carpeta [Apunts per sessions](https://github.com/ki-sap/Teoria-de-categories-2026/tree/main/Apunts%20per%20sessions) teniu els apunts desglossats segons el que hem vist a cada classe. Tingueu en compte que cada setmana actualitzarem els apunts.
+Conforme anem realitzant les diferents sessions anirem pujant apunts. Al pdf [Apunts2026](https://github.com/ki-sap/Teoria-de-categories-2026/blob/main/Apunts2026.pdf) estan els apunts de tots els continguts que hem vist al seminari, i  alguns afegits que no hem pogut fer en classe. A la carpeta [Apunts per sessions](https://github.com/ki-sap/Teoria-de-categories-2026/tree/main/Apunts%20per%20sessions) teniu els apunts desglossats segons el que hem vist a cada classe. Tingueu en compte que cada setmana actualitzarem els apunts :)
 
 ---
 

@@ -20,7 +20,9 @@ Conforme anem realitzant les diferents sessions anirem pujant apunts. Al pdf [Ap
 
 ## Qüestionari per a rebre novetats
 Si ens deixes el teu correu, t'actualitzarem de qualsevol canvi que puga sorgir!
+
 [Accedeix al qüestionari](https://docs.google.com/forms/d/e/1FAIpQLScC-dRxOtAPYFTDhrU1a23IUWs64bj-0JOaWvQf58XsQJt3LQ/viewform?usp=dialog) 
+
 També pots gastar el formulari per deixar-nos qualsevol dubte que tingues sobre els seminaris.
 
 ---

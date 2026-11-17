@@ -6,12 +6,12 @@ Benvingudes! Ací trobareu la informació del seminari, els apunts i altres docu
 
 Ja està pujada la demostració de la caracterització d'equivalències, que ens vàreu demanar :)
 
-A la sessió 6 (la classe sobre equivalències de categories) vam cometre una errada. La categoria dels espais vectorials no és equivalent a la categoria de les matrius, és la categoria d'espais vectorials *de dimensió finita*. Ja està corregit als apunts
+A la sessió 6 (la classe sobre equivalències de categories) vam cometre una errada. La categoria dels espais vectorials no és equivalent a la categoria de les matrius, és la categoria d'espais vectorials *de dimensió finita*. Ja està corregit als apunts.
 
 ---
  
 ## Horari
-El seminari es realitza els dimecres de 13:00 a 14:00 en l'aula 0.4.
+El seminari es realitza els dimecres de 13:00 a 14:00 en l'aula 0.4. Si hi ha qualsevol canvi, vos avisarem.
 
 ---
 

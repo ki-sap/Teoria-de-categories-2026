@@ -2,9 +2,11 @@
 
 Benvingudes! Ací trobareu la informació del seminari, els apunts i altres documents, així com l'enllaç al qüestionari on podeu apuntar el vostre correu per rebre qualsevol actualització.
 
-## Avisos o actualitzacions
+## Avisos, actualitzacions o correccions
 
-El proper dimecres 11 de novembre no farem el seminari per tal de recolzar la convocatòria de vaga general pel dret a l'habitatge.
+Ja està pujada la demostració de la caracterització d'equivalències, que ens vàreu demanar :)
+
+A la sessió 6 (la classe sobre equivalències de categories) vam cometre una errada. La categoria dels espais vectorials no és equivalent a la categoria de les matrius, és la categoria d'espais vectorials *de dimensió finita*. Ja està corregit als apunts
 
 ---
  

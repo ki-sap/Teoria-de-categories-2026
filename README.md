@@ -25,6 +25,8 @@ Si ens deixes el teu correu, t'actualitzarem de qualsevol canvi que puga sorgir!
 
 [Accedeix al qüestionari](https://docs.google.com/forms/d/e/1FAIpQLScC-dRxOtAPYFTDhrU1a23IUWs64bj-0JOaWvQf58XsQJt3LQ/viewform?usp=dialog) 
 
-També pots gastar el formulari per deixar-nos qualsevol dubte que tingues sobre els seminaris.
+A més, si tingueu qualsevol dubte sobre l'organització o els continguts dels seminaris, podeu escriure a qualsevol dels nostres correus:
+momarca6@alumni.uv.es
+freferpe@alumni.uv.es
 
 ---
